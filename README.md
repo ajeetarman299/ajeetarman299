@@ -1,16 +1,22 @@
-## Hi there 👋
+<a href="https://ajeetarman299.github.io"><img src="https://ajeetarman299.github.io/assets/og.png" alt="Ajeet Singh Rajpoot, Product Manager" width="100%"></a>
 
-<!--
-**ajeetarman299/ajeetarman299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Ajeet Singh Rajpoot
 
-Here are some ideas to get you started:
+Associate Product Manager at **EmulateAI**, building an autonomous pentesting product. I own the roadmap, design the flows and take features from the first user flow to release sign-off. IIT Kharagpur '25, with a background in data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio** [ajeetarman299.github.io](https://ajeetarman299.github.io) · **LinkedIn** [ajeet-singh-rajpoot](https://www.linkedin.com/in/ajeet-singh-rajpoot) · **Email** ajeetarman299@gmail.com
+
+#### Projects
+
+| Project | What it does | Result |
+|---|---|---|
+| [T20 match winner prediction](https://github.com/ajeetarman299/Predict-The-Winner-of-The-T20-Cricket-Match) | CatBoost and LightGBM on 35+ engineered features | Top 30 of 4,000+, American Express Campus Challenge |
+| [Question-answering chatbot](https://github.com/ajeetarman299/Question-Answering-ChatBot-System-Development) | LangChain, HuggingFace embeddings and FAISS search over an FAQ set | Working LLM Q&A app |
+| [Movement detection from radar](https://github.com/ajeetarman299/Movement-Detection-Using-Radar-Data) | GRU model on Doppler radar signals | 95% validation accuracy |
+| [Alloy strength optimization](https://github.com/ajeetarman299/Optimization-of-Metal-Proportions-for-Alloy-Strength) | CatBoost plus grid search for metal proportions | 88.5% validation accuracy |
+| [Cold email generator](https://github.com/ajeetarman299/Cold-Mail-Generator) | Groq, LangChain and ChromaDB write emails from job posts | GenAI app |
+
+#### Toolkit
+
+**Product** Roadmapping · Sprint planning · User research · PRDs · Figma · Jira
+**AI & data** Python · SQL · LLM evaluation · Prompt engineering · LangChain · CatBoost · LightGBM · TensorFlow
