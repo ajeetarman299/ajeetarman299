@@ -1,4 +1,4 @@
-<a href="https://ajeetarman299.github.io"><img src="https://ajeetarman299.github.io/assets/og.png" alt="Ajeet Singh Rajpoot, Product Manager" width="100%"></a>
+<a href="https://ajeetarman299.github.io"><img src="https://ajeetarman299.github.io/assets/og.png?v=2" alt="Ajeet Singh Rajpoot, Product Manager" width="100%"></a>
 
 ### Hi, I'm Ajeet Singh Rajpoot
 
