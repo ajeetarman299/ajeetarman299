@@ -19,4 +19,4 @@ Associate Product Manager at **EmulateAI**, building an autonomous pentesting pr
 #### Toolkit
 
 **Product** Roadmapping · Sprint planning · User research · PRDs · Figma · Jira
-**AI & data** Python · SQL · LLM evaluation · Prompt engineering · LangChain · CatBoost · LightGBM · TensorFlow
+**AI & data** Python · SQL · LLM evaluation · Prompt engineering · LangChain · CatBoost · LightGBM · PyTorch
