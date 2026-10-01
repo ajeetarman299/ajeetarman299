@@ -6,6 +6,10 @@ Associate Product Manager at **EmulateAI**, building an autonomous pentesting pr
 
 **Portfolio** [ajeetarman299.github.io](https://ajeetarman299.github.io) · **LinkedIn** [ajeet-singh-rajpoot](https://www.linkedin.com/in/ajeet-singh-rajpoot) · **Email** ajeetarman299@gmail.com
 
+#### Product work
+
+[Product case studies](https://github.com/ajeetarman299/product-case-studies): shaping the SportsHedge MVP, the Open IIT case that placed 1st of 16, and a product review of my RAG chatbot, plus my PRD template and release sign-off checklist.
+
 #### Projects
 
 | Project | What it does | Result |
