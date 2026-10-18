@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ajeet Singh Rajpoot
 
-Associate Product Manager at **EmulateAI**, building an autonomous pentesting product with a 10-engineer R&D team. I own the roadmap, design the flows and take features from discovery and PRD to prototype and release sign-off. On the AI side I work on RAG evaluation, prompt design and AI agents. IIT Kharagpur '25 (Integrated M.Sc., Chemistry), with data-science and ML project work.
+Associate Product Manager at **EmulateAI**, building an autonomous pentesting product with a 10-engineer R&D team. I own the roadmap, design the flows and take features from discovery and PRD to prototype and release sign-off, with 20+ PRDs written so far. On the AI side I work on RAG evaluation, prompt design and AI agents. IIT Kharagpur '25 (Integrated M.Sc., Chemistry), with data-science and ML project work.
 
 **Portfolio** [ajeetarman299.github.io](https://ajeetarman299.github.io) · **LinkedIn** [ajeet-singh-rajpoot](https://www.linkedin.com/in/ajeet-singh-rajpoot) · **Email** ajeetarman299@gmail.com
 
