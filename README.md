@@ -2,25 +2,29 @@
 
 ### Hi, I'm Ajeet Singh Rajpoot
 
-Associate Product Manager at **EmulateAI**, building an autonomous pentesting product. I own the roadmap, design the flows and take features from the first user flow to release sign-off. IIT Kharagpur '25, with a background in data science.
+Associate Product Manager at **EmulateAI**, building an autonomous pentesting product with a 10-engineer R&D team. I own the roadmap, design the flows and take features from discovery and PRD to prototype and release sign-off. On the AI side I work on RAG evaluation, prompt design and AI agents. IIT Kharagpur '25 (Integrated M.Sc., Chemistry), with data-science and ML project work.
 
 **Portfolio** [ajeetarman299.github.io](https://ajeetarman299.github.io) · **LinkedIn** [ajeet-singh-rajpoot](https://www.linkedin.com/in/ajeet-singh-rajpoot) · **Email** ajeetarman299@gmail.com
 
 #### Product work
 
-[Product case studies](https://github.com/ajeetarman299/product-case-studies): shaping the SportsHedge MVP, the Open IIT case that placed 1st of 16, and a product review of my RAG chatbot, plus my PRD template and release sign-off checklist.
+[Product case studies](https://github.com/ajeetarman299/product-case-studies):
+- **SportsHedge MVP**: discovery to launch for a cricket player-trading MVP, from 30+ user interviews to 46k+ visitors in 2 months.
+- **Open IIT Product Management**: 1st of 16 teams with a biodegradable packaging film made from areca-nut shells.
+- **FAQ chatbot product review**: how I evaluate a RAG assistant and decide when it is ready to launch.
+- **Templates**: PRD template and release sign-off checklist.
 
-#### Projects
+#### AI and data-science projects
 
 | Project | What it does | Result |
 |---|---|---|
-| [T20 match winner prediction](https://github.com/ajeetarman299/Predict-The-Winner-of-The-T20-Cricket-Match) | CatBoost and LightGBM on 35+ engineered features | Top 30 of 4,000+, American Express Campus Challenge |
-| [Question-answering chatbot](https://github.com/ajeetarman299/Question-Answering-ChatBot-System-Development) | LangChain, HuggingFace embeddings and FAISS search over an FAQ set | Working LLM Q&A app |
+| [T20 match winner prediction](https://github.com/ajeetarman299/Predict-The-Winner-of-The-T20-Cricket-Match) | Gradient-boosting models on 35+ engineered features; XGBoost scored best | Top 30 of 4,000+, American Express Campus Challenge (64% test accuracy) |
 | [Movement detection from radar](https://github.com/ajeetarman299/Movement-Detection-Using-Radar-Data) | GRU model on Doppler radar signals | 95% validation accuracy |
-| [Alloy strength optimization](https://github.com/ajeetarman299/Optimization-of-Metal-Proportions-for-Alloy-Strength) | CatBoost plus grid search for metal proportions | 88.5% validation accuracy |
-| [Cold email generator](https://github.com/ajeetarman299/Cold-Mail-Generator) | Groq, LangChain and ChromaDB write emails from job posts | GenAI app |
+| [Alloy strength optimization](https://github.com/ajeetarman299/Optimization-of-Metal-Proportions-for-Alloy-Strength) | CatBoost model, then a search for metal proportions | R² of 0.89 on held-out data |
+
+Smaller builds: [FAQ chatbot](https://github.com/ajeetarman299/Question-Answering-ChatBot-System-Development) (LangChain, FAISS, Gemini) and [cold-email generator](https://github.com/ajeetarman299/Cold-Mail-Generator) (Groq, LangChain, ChromaDB).
 
 #### Toolkit
 
-**Product** Roadmapping · Sprint planning · User research · PRDs · Figma · Jira
-**AI & data** Python · SQL · LLM evaluation · Prompt engineering · LangChain · CatBoost · LightGBM · PyTorch
+**Product** Roadmapping · Discovery and user research · PRDs · Prototyping in Figma · Jira · SQL and analytics
+**AI** RAG evaluation · Prompt design · AI agents · Python
